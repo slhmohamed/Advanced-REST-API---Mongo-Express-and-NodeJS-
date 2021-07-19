@@ -1,0 +1,145 @@
+ 
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:25:24.103Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:25:24.133Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:26:00.473Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:26:00.517Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:30:48.330Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:30:48.362Z"}
+{"message":"Unexpected string in JSON at position 35","stack":"SyntaxError: Unexpected string in JSON at position 35\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\ThinkPad\\Desktop\\BackendProject\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\ThinkPad\\Desktop\\BackendProject\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Users\\ThinkPad\\Desktop\\BackendProject\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\ThinkPad\\Desktop\\BackendProject\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\ThinkPad\\Desktop\\BackendProject\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:327:22)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)","expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"name\":\"salah mohamed\"\r\n    \"email\":\"salahmohamed@gmail.com\",\r\n    \"password\":\"123456\"\r\n}","type":"entity.parse.failed","level":"error","timestamp":"2021-07-16T15:30:51.984Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:31:29.624Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:31:29.695Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:34:03.792Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:34:03.828Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:34:57.544Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:34:57.597Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:35:23.359Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:35:23.416Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:38:15.298Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:38:15.364Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-16T15:39:11.307Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-16T15:39:11.355Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:49:28.719Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:49:28.801Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:50:23.385Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:50:23.439Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:51:02.099Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:51:02.216Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:52:33.000Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:52:33.093Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:53:05.976Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:53:06.029Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:53:13.979Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:53:14.044Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:54:44.154Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:54:44.256Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:56:08.027Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:56:08.078Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:56:22.195Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:56:22.243Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:57:00.635Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:57:00.695Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T09:57:33.492Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T09:57:33.544Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:01:34.019Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:01:34.088Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:02:01.549Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:02:01.631Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:04:08.462Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:04:08.507Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:04:27.424Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:04:27.561Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:06:17.615Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:06:17.670Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:09:04.847Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:09:04.902Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:09:41.203Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:09:41.242Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:11:00.153Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:11:10.432Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:11:10.468Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:13:39.591Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:13:39.662Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:14:31.070Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:14:31.174Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:14:47.825Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:14:47.868Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:15:12.475Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:15:12.516Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:16:48.887Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:16:48.924Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T10:17:13.519Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T10:17:13.561Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:39:07.622Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:39:07.681Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:40:02.528Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:40:02.577Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:42:00.944Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:42:00.986Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:42:21.904Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:42:21.953Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:43:03.261Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:43:03.310Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:43:41.803Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:43:41.838Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T12:44:13.410Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T12:44:13.440Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:16:14.011Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:16:14.059Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:17:34.596Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:17:34.626Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:18:12.837Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:18:12.869Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:18:23.858Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:18:23.887Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:20:20.529Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:20:20.564Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:22:10.691Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:22:10.736Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:54:59.377Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:54:59.420Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:55:02.938Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:55:02.983Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T13:57:06.594Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T13:57:06.638Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:22:45.783Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:22:45.836Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:23:50.154Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:23:50.189Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:26:16.086Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:26:16.124Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:28:12.890Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:28:12.944Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:29:21.511Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:29:21.560Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:29:45.828Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:29:45.872Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:30:04.961Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:30:05.017Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:34:55.773Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:34:55.824Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:36:47.051Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:36:47.086Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:36:53.337Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:36:53.386Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:53:37.320Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:53:37.362Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:54:13.433Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:54:13.476Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:55:42.321Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:55:42.376Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:56:05.310Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:56:05.347Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:56:20.348Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:56:20.388Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:56:30.267Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:56:30.306Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:56:50.390Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:56:50.438Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:57:17.722Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:57:17.761Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:57:56.354Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:57:56.400Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:58:21.453Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:58:21.504Z"}
+{"level":"info","message":"App listening on url:http://localhost:3000","timestamp":"2021-07-17T21:58:55.354Z"}
+{"level":"info","message":"Mongo db Connected.....","timestamp":"2021-07-17T21:58:55.406Z"}
