@@ -5,8 +5,10 @@ const { addBook, getBooks, getOneBook, updateBook, deleteBook } = require('../co
 const router = express.Router();
  /**
  * @swagger
+ *
  * /books:
  *   post:
+ *      
  *     description: Create book
  *     parameters:
  *      - name: title
@@ -39,6 +41,7 @@ const router = express.Router();
  *        in: formData
  *        required: true
  *        type: boolean
+ *     tags: [User]
  *     responses:
  *       201:
  *         description: Created
@@ -46,9 +49,12 @@ const router = express.Router();
 router.post('/book', auth, addBook);
 /**
  * @swagger
+ * tags:
+ *   name: Books
  * /books:
  *   get:
  *     description: Get all books
+ *     tags: [Books]
  *     responses:
  *       200:
  *         description: Success
@@ -72,7 +78,7 @@ router.get('/books', auth, getBooks);
  *         description: Success
  * 
  */ 
-router.get('/book/:id', auth, getOneBook);
+router.get('/book:id', auth, getOneBook);
 /**
  * @swagger
  * /books/:id:
@@ -89,7 +95,7 @@ router.get('/book/:id', auth, getOneBook);
  *         description: Success
  * 
  */ 
-router.put('/book/:id', auth, updateBook);
+router.put('/book:id', auth, updateBook);
 /**
  * @swagger
  * /books/:id:
@@ -106,7 +112,7 @@ router.put('/book/:id', auth, updateBook);
  *         description: Success
  * 
  */ 
-router.delete('/book/:id', auth, deleteBook);
+router.delete('/book:id', auth, deleteBook);
 
 
 module.exports = {

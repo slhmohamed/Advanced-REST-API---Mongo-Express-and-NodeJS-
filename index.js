@@ -46,8 +46,8 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.use(error)
-app.use('/api',userRouter.routes);
-app.use('/api',authRoutes.routes);
-app.use('/api',bookRoutes.routes);
+app.use('/api/book',userRouter.routes);
+app.use('/api/book',authRoutes.routes);
+app.use('/api/book',bookRoutes.routes);
 
 app.listen(environement.port, () => winston.info('App listening on url:http://localhost:'+environement.port));

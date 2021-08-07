@@ -19,6 +19,11 @@ const addUser = async (req, res, next) => {
     res.header('x-auth-token', token).send(_.pick(user, ['_id', 'name', 'email']));
 }
 
+const curentUser= async (req, res, next) => {
+    let user = await User.findById({_id:req.params.id}).exec();
+    res.send({ status: true, result: user });
+}
 module.exports = {
-    addUser
+    addUser,
+    curentUser
 }
